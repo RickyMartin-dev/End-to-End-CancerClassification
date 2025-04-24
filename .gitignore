@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Files from usecase
+*.zip
+__MACOSX
+
+artifacts/*
