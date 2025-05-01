@@ -11,3 +11,6 @@ With MLFlow and DVC, Deployed
 7. Update the pipleine 
 8. Update the main.py
 9. Update the dvc.yaml
+
+### Model
+Using VGG16 (more info: https://keras.io/api/applications/)
