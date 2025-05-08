@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ricky/Desktop/Finally_Productive/end-to-end_1of3_ChestCancerTSClassification/End-to-End-CancerClassification/mlruns/0/53b499b4f7cd4339b0950ef25eda50e8/artifacts
+end_time: 1746667974956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53b499b4f7cd4339b0950ef25eda50e8
+run_name: sedate-skunk-753
+run_uuid: 53b499b4f7cd4339b0950ef25eda50e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746667965191
+status: 3
+tags: []
+user_id: ricky

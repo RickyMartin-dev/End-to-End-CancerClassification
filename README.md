@@ -14,3 +14,9 @@ With MLFlow and DVC, Deployed
 
 ### Model
 Using VGG16 (more info: https://keras.io/api/applications/)
+
+### MLFlow Integration
+MLFlow for tracking model version during different iterations/hyperparameter settings.
+
+## DVC Integration
+Git + DVC assists in tracking pipeline and ensure work does not have to be repeated.

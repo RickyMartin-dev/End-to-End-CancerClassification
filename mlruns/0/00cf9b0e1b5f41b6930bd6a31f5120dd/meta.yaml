@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ricky/Desktop/Finally_Productive/end-to-end_1of3_ChestCancerTSClassification/End-to-End-CancerClassification/mlruns/0/00cf9b0e1b5f41b6930bd6a31f5120dd/artifacts
+end_time: 1746666699743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00cf9b0e1b5f41b6930bd6a31f5120dd
+run_name: able-moose-40
+run_uuid: 00cf9b0e1b5f41b6930bd6a31f5120dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746666690004
+status: 3
+tags: []
+user_id: ricky

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ricky/Desktop/Finally_Productive/end-to-end_1of3_ChestCancerTSClassification/End-to-End-CancerClassification/mlruns/0/f04fd80d58b743e1bcf51880e2752caa/artifacts
+end_time: 1746665897170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04fd80d58b743e1bcf51880e2752caa
+run_name: rumbling-skink-537
+run_uuid: f04fd80d58b743e1bcf51880e2752caa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746665887330
+status: 3
+tags: []
+user_id: ricky

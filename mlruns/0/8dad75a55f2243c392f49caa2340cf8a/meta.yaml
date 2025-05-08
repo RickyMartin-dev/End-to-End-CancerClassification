@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ricky/Desktop/Finally_Productive/end-to-end_1of3_ChestCancerTSClassification/End-to-End-CancerClassification/mlruns/0/8dad75a55f2243c392f49caa2340cf8a/artifacts
+end_time: 1746668439337
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dad75a55f2243c392f49caa2340cf8a
+run_name: charming-cow-2
+run_uuid: 8dad75a55f2243c392f49caa2340cf8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746668429497
+status: 3
+tags: []
+user_id: ricky

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ricky/Desktop/Finally_Productive/end-to-end_1of3_ChestCancerTSClassification/End-to-End-CancerClassification/mlruns/0/08eb3b5d44144232b0e491ca40fd3637/artifacts
+end_time: 1746665356568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08eb3b5d44144232b0e491ca40fd3637
+run_name: adaptable-stag-976
+run_uuid: 08eb3b5d44144232b0e491ca40fd3637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746665346931
+status: 4
+tags: []
+user_id: ricky
