@@ -1,5 +1,5 @@
 setuptools==74.1.2
-tensorflow==2.12.0
+tensorflow==2.12.1
 pandas
 gdown
 dvc
