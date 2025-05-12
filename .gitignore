@@ -180,3 +180,5 @@ __MACOSX
 artifacts/*
 
 __pycache__
+mlruns/
+mlruns/*

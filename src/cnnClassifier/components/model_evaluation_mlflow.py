@@ -4,9 +4,10 @@ import mlflow
 import mlflow.keras
 from urllib.parse import urlparse
 from cnnClassifier.entity.config_entity import EvaluationConfig
-from cnnClassifier.utils.common import read_yaml, create_directories, save_json
+from cnnClassifier.utils.common import read_yaml, create_directories,save_json
 import dagshub
 dagshub.init(repo_owner='RickyMartin-dev', repo_name='End-to-End-CancerClassification', mlflow=True)
+
 
 class Evaluation:
     def __init__(self, config: EvaluationConfig):
@@ -42,7 +43,6 @@ class Evaluation:
     def load_model(path: Path) -> tf.keras.Model:
         return tf.keras.models.load_model(path)
     
-
     def evaluation(self):
         self.model = self.load_model(self.config.path_of_model)
         self._valid_generator()
@@ -53,7 +53,6 @@ class Evaluation:
         scores = {"loss": self.score[0], "accuracy": self.score[1]}
         save_json(path=Path("scores.json"), data=scores)
 
-    
     def log_into_mlflow(self):
         mlflow.set_registry_uri(self.config.mlflow_uri)
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme

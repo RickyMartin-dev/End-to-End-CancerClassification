@@ -6,6 +6,8 @@ import time
 from cnnClassifier.entity.config_entity import TrainingConfig
 from pathlib import Path
 
+
+
 class Training:
     def __init__(self, config: TrainingConfig):
         self.config = config
@@ -64,6 +66,7 @@ class Training:
     @staticmethod
     def save_model(path: Path, model: tf.keras.Model):
         model.save(path)
+
     
     def train(self):
         self.steps_per_epoch = self.train_generator.samples // self.train_generator.batch_size
