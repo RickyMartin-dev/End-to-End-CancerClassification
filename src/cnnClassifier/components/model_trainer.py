@@ -66,7 +66,7 @@ class Training:
     @staticmethod
     def save_model(path: Path, model: tf.keras.Model):
         model.save(path)
-
+        model.save('model//model.h5')
     
     def train(self):
         self.steps_per_epoch = self.train_generator.samples // self.train_generator.batch_size
