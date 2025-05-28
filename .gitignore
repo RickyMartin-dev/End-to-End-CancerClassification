@@ -182,3 +182,6 @@ artifacts/*
 __pycache__
 mlruns/
 mlruns/*
+
+*.png 
+*.jpg
