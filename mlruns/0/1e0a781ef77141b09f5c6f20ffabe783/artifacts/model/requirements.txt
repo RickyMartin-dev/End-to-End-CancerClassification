@@ -6,7 +6,7 @@ numpy==1.23.5
 packaging==24.1
 pandas==2.0.3
 pillow==10.4.0
-protobuf==4.25.6
+protobuf==4.25.8
 pydot==3.0.4
 pyopenssl==23.2.0
 requests==2.32.3
